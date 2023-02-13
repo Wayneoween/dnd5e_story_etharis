@@ -1,0 +1,29 @@
+title:       Grim Hollow
+email:       etharis+dnd@cle.ar.it
+description: Test test test
+baseurl:     "" # the subpath of your site, e.g. /blog
+url:         "https://etharis.dndaux.de" # the base hostname & protocol for your site, e.g. http://example.comemail:              your-email@example.com
+author:      m_sc
+
+# Social Profiles
+twitter_username: Wayneoween
+github_username: Wayneoween
+
+permalink:     /:title/
+paginate:      7
+paginate_path: "/posts/page:num/"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-paginate
+
+  # https://codepen.io/yoannhel/pen/sJpDj
+  # This needs to be done! :-)
+
+collections:
+  glossary:
+    output: false
+  quests:
+    output: false
