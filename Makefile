@@ -10,7 +10,6 @@ define PRAEAMBLE
 ---
 layout: post
 title: ""
-author: Posmet
 background: ""
 ---
 
@@ -30,4 +29,4 @@ clean:
 	$(RM) -rf _site/*
 
 serve:
-	bundle exec jekyll serve --drafts
+	bundle exec jekyll serve --drafts --livereload --future
