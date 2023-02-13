@@ -3,8 +3,8 @@ layout: post
 title: Die Penumbra Halle
 author: Tala
 excerpt: Der erste Auftrag
-background: "/img/posts/the_end.png"
-background_pos: 10% 0%
+background: "/img/posts/post01.jpg"
+background_pos: 100% 50%
 ---
 
 # {% include glossary_link.html title="Krähenwinkel" %}
