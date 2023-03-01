@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Die Penumbra Halle
+title: Auf dem Weg zur Penumbra Halle
 author: Tala
 excerpt: Der erste Auftrag
 background: "/img/posts/post01.jpg"
