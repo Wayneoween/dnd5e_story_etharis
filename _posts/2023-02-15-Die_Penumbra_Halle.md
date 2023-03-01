@@ -3,8 +3,8 @@ layout: post
 title: Die Penumbra Halle
 author: Tala
 excerpt: Der erste Auftrag
-background: "/img/posts/post01.jpg"
-background_pos: 100% 50%
+background: "/img/posts/post02_1.png"
+background_pos: 100% 60%
 ---
 
 # Merkwürdige Kugeln
@@ -22,7 +22,12 @@ Auf dem Tisch mit dem Diadem war nämlich nochmal so eine Kugel und Pedro hat di
 Ein ekelhafter Gestank kam uns entgegen als wir durch diese Tür sind. Hier wurde schon lange nicht mehr gelüftet. Es vergingen gefühlt Stunden, als wir einem schier endlosen Gang in die Tiefe folgten.
 Wir konnten ein helles, warmes Licht vernehmen. Hier unten? Vielleicht endlich wieder die Sonne!
 Jedoch kam es etwas anders als erwartet. Eine riesige Zitadelle stand in der Ferne mit einer Art Sonne als Spitze, die eine große Höhle erleuchtet hat. Was soll schon schief gehen? Wir sollten erstmal dort anklopfen, vielleicht wissen die Einwohner ja wo es rausgeht?
+
+![Die Zitadelle](/img/posts/post02_1.png){:.center-image}
+
 Auf dem Weg dahin wurden wir etwas überrascht. Hinter uns stand eine imposante Gestalt, ähnlich dem Bildnis auf der Tür, an der wir die Kugeln angebracht hatten. Nur mit weniger Fleisch und dafür mehr sichtbaren Knochen.
+
+![Der Lich](/img/posts/post02_2.png){:.center-image}
 
 Wir seien hier wohl eingebrochen und haben etwas von ihm gestohlen? Er machte uns deutlich, dass er immer noch der Besitzer des Diadems sei und wir bestraft werden müssten. Pedro und Darko versuchten noch zu flehen aber zwei Diener des Lich, riesige Skelettkonstrukte, packten uns alle und hielten uns fest. Ich lies etwas mein Leben Revue passieren aber dennoch kullerte eine Träne herunter als ich zu Edward blickte.
 Der Lich wirkte eine Art Zauber, der uns in gleisendes Licht hüllte. Alles war weiß und ich spürte, wie mein Fleisch wegbrannte und ich mein Ende finden würde. Wo lande ich wohl, nachdem ich Galt vor Jahrhunderten entsagte? Zeit es herauszufinden.
@@ -46,6 +51,8 @@ Hier war definitiv kein Ort an dem wir bleiben sollten, also machten wir uns auf
 In einem größeren Raum erweckten wir anscheinend eine untote Kuh auf zwei Beinen. Wir gaben unser bestes um ihr zu entkommen und konnten das nur sehr knapp schaffen.
 Der Weg führte uns in eine Art Lager mit einer überraschend großen Anzahl an Humanoiden.
 ... meine Knie wurden weich und ich versteckte mich zuerst hinter Pedro, als er jedoch näher ans Feuer zu den Fremden ging, suchte ich schnell Schutz unter einem der Tische.
+
+![Die Schürfer](/img/posts/post02_3.png){:.center-image}
 
 Was machen die hier?
 
