@@ -2,7 +2,7 @@
 layout: post
 title: Die Penumbra Halle
 author: Tala
-excerpt: Der erste Auftrag
+excerpt: In die Tiefe, und... noch tiefer
 background: "/img/posts/post02_1.png"
 background_pos: 100% 60%
 ---
