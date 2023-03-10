@@ -11,7 +11,7 @@ background_pos: 100% 60%
 
 Wir konnten uns noch etwas weiter in diesem Gewölbe umsehen. Eine Skelettstatue auf der ein Schutzzauber lag, hielt eine Glaskugel. Die sah so aus, als könnte sie in die große Tür passen! Also fix ein Lasso aus den Seilen gezaubert, vorsichtig angebracht um die Kugel und dann in den vorherigen Raum gezogen. Pah! Ein Kinderspiel!
 
-Zurück im Raum mit dem Auge konnte ich in Erfahrung bringen, was passiert wenn das Auge einen entdeckt... ich bin ungünstig über den Boden geschlittert und habe es gerade noch unter das Podest geschafft. Eine Art hummen könnte ich über mir wahrnehmen. Neugierig warf ich einen Stein in die andere Richtung und das Auge drehte sich sofort dorthin und hat es mit einem Strahl in Asche verwandelt! Ist das vielleicht diese Art von Magie, von der Pedro erzählt hat? Das sieht schon gefährlich aus…
+Zurück im Raum mit dem Auge konnte ich in Erfahrung bringen, was passiert wenn das Auge einen entdeckt... ich bin ungünstig über den Boden geschlittert und habe es gerade noch unter das Podest geschafft. Eine Art hummen könnte ich über mir wahrnehmen. Neugierig warf ich einen Stein in die andere Richtung und das Auge drehte sich sofort dorthin und hat es mit einem Strahl in Asche verwandelt! Ist das vielleicht diese Art von Magie, von der Pedro erzählt hat? Das sieht schon gefährlich aus...
 
 Im Südlichen Raum fanden wir nun auch unser Ziel, wegen dem wir hier sind: Ein silbernes Diadem mit einem gebrochenem Edelstein in der Mitte.
 Ich gab Pedro mein Lassokonstrukt und... er hats erstmal kaputt gemacht... diese Jugend heutzutage! Also erstmal ihm Schritt für Schritt gezeigt, wie man das bedient.
