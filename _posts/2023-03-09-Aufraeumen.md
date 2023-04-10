@@ -26,7 +26,7 @@ sich richtig um sich selbst kümmert.
 
 Mit gefülltem Wagen im Schlepptau, kamen wir zurück ins Lager. Wir berichteten
 von den Eisenklumpen in den Wurzeln und positionierten den Wagen mit seinem Moos
-und Gemüse neben den Kräuterregalen. Coragnir und Bertalore schienen sich auf
+und Gemüse neben den Kräuterregalen. Coragnir und {% include glossary_link.html title="Bertalore" %} schienen sich auf
 Anhieb direkt zu verstehen. Einige der Schriftzeichen aus dem Altarraum sollen
 wohl so etwas wie Buße und Selbstgeißelung laut Doryenta bedeuten. Es könnte
 sich hierbei um diese Sprache der alten Zivilisation sein. Beim Altarraum haben
@@ -40,8 +40,8 @@ längst gefressen worden.
 Kein Hund wird zurückgelassen Das Wolfsgeheul ging mir nicht aus dem Kopf. Wir
 können das arme Tier hier doch nicht einfach seinem eigenen Schicksal
 überlassen, erst recht nicht, wenn die Hilferufe uns doch schon ereilt haben!?
-Ich musste Darko etwas davon überzeugen und Pedro hat uns zusammen mit Lemnor
-begleitet. Lemnor sucht ebenfalls nach seinem treuen Gefährten “Koralle”.
+Ich musste Darko etwas davon überzeugen und Pedro hat uns zusammen mit {% include glossary_link.html title="Lemnor" %}
+begleitet. {% include glossary_link.html title="Lemnor" %} sucht ebenfalls nach seinem treuen Gefährten “Koralle”.
 Selbst wenn wir nur eines der beiden Tiere finden und zurückbringen können, war
 es das vielleicht auftretende Opfer schon wert. Eine große dunkle Schlucht
 befand sich unter unseren Augen, nachdem wir etwas tiefer in die nördlichen
