@@ -1,6 +1,7 @@
 ---
 title: Krähenwinkel
-type: city
+type: Dorf
+icon: city
 ---
 
 Eine kleine unabhängige Stadt, die mit allen, die es wünschen, freien Handel
@@ -9,4 +10,3 @@ keine formelle Loyalitätserklärung gegenüber der Provinz abgegeben.
 
 Hier nahm alles seinen Anfang, als die Gruppe in der Fronwasser Schänke auf
 einen Mann mit dem Namen Nachtseher traf.
-
