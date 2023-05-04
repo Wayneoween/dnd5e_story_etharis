@@ -29,7 +29,7 @@ Auf dem Weg dahin wurden wir etwas überrascht. Hinter uns stand eine imposante 
 
 ![Der Lich](/img/posts/post02_2.png){:.center-image}
 
-Wir seien hier wohl eingebrochen und haben etwas von ihm gestohlen? Er machte uns deutlich, dass er immer noch der Besitzer des Diadems sei und wir bestraft werden müssten. Pedro und Darko versuchten noch zu flehen aber zwei Diener des Lich, riesige Skelettkonstrukte, packten uns alle und hielten uns fest. Ich lies etwas mein Leben Revue passieren aber dennoch kullerte eine Träne herunter als ich zu Edward blickte.
+Wir seien hier wohl eingebrochen und haben etwas von ihm gestohlen? Er machte uns deutlich, dass er immer noch der Besitzer des Diadems sei und wir bestraft werden müssten. Pedro und Darko versuchten noch zu flehen aber zwei Diener des Lich, riesige Skelettkonstrukte, packten uns alle und hielten uns fest. Ich lies etwas mein Leben Revue passieren aber dennoch kullerte eine Träne herunter als ich zu {% include glossary_link.html title="Edward" %} blickte.
 Der Lich wirkte eine Art Zauber, der uns in gleisendes Licht hüllte. Alles war weiß und ich spürte, wie mein Fleisch wegbrannte und ich mein Ende finden würde. Wo lande ich wohl, nachdem ich Galt vor Jahrhunderten entsagte? Zeit es herauszufinden.
 
 

@@ -32,7 +32,7 @@ Yejin der Gnom, warnte uns vor den Fallen, die er im Laufe der Zeit aufgestellt 
 
 - {% include glossary_link.html title="Coragnir" %} ist glaub einer dieser Magier, die Pedro verfolgt. Der blaue Dragonborn hat überall Schriften auf seinen Schuppen, die wohl Zaubersprüche darstellen.
 
-- {% include glossary_link.html title="Lemnor" %} die Laneshi, sucht noch nach ihrem Wolfsgefährten namens Koralle. Sie habe dunkelgraues Fell und einen weißen Rücken. Sie ging im Norden der Gräben verschollen.
+- {% include glossary_link.html title="Lemnor" %} die Laneshi, sucht noch nach ihrem Wolfsgefährten namens {% include glossary_link.html title="Koralle" %}. Sie habe dunkelgraues Fell und einen weißen Rücken. Sie ging im Norden der Gräben verschollen.
 
 Die Vorräte im Lager sind knapp bemessen. Aber Fremden sollte man jetzt nicht zu
 einfach vertrauen. Ich kann wenigstens für uns sorgen, damit wir dem Lager nicht

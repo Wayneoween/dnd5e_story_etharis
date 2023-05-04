@@ -18,7 +18,7 @@ dieser Erde abzuhalten.
 
 Nicht weit entfernt befanden sich noch weitere Wägen, die zum Holztransport
 dienten und die wir fleißig bestückten. Im Dunkel der Höhlen vernahmen wir ein
-Wolfsgeheul... vielleicht Edward? Wie suchten die Löcher ab, aber konnten leider
+Wolfsgeheul... vielleicht {% include glossary_link.html title="Edward" %}? Wie suchten die Löcher ab, aber konnten leider
 keine klare Spur finden. Wenigstens konnten wir so dem Lager zeigen, wie man
 sich richtig um sich selbst kümmert.
 
@@ -41,7 +41,7 @@ Kein Hund wird zurückgelassen Das Wolfsgeheul ging mir nicht aus dem Kopf. Wir
 können das arme Tier hier doch nicht einfach seinem eigenen Schicksal
 überlassen, erst recht nicht, wenn die Hilferufe uns doch schon ereilt haben!?
 Ich musste Darko etwas davon überzeugen und Pedro hat uns zusammen mit {% include glossary_link.html title="Lemnor" %}
-begleitet. {% include glossary_link.html title="Lemnor" %} sucht ebenfalls nach seinem treuen Gefährten “Koralle”.
+begleitet. {% include glossary_link.html title="Lemnor" %} sucht ebenfalls nach seinem treuen Gefährten “{% include glossary_link.html title="Koralle" %}”.
 Selbst wenn wir nur eines der beiden Tiere finden und zurückbringen können, war
 es das vielleicht auftretende Opfer schon wert. Eine große dunkle Schlucht
 befand sich unter unseren Augen, nachdem wir etwas tiefer in die nördlichen

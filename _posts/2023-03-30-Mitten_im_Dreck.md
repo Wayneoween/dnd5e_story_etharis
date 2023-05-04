@@ -47,7 +47,7 @@ verdient. Eine wahre Wölfin unter den Lämmern.
 
 Mit der Kunde über das alte Lager im Schlepptau, begaben wir uns auch langsam
 zur Ruhe. Jedoch nagte die Ungewissheit über den Verbleib der Wölfe sehr an mir.
-Auch {% include glossary_link.html title="Lemnor" %} und Darko teilten dieses Gefühl und Darko erwähnte, er könne Edward
+Auch {% include glossary_link.html title="Lemnor" %} und Darko teilten dieses Gefühl und Darko erwähnte, er könne {% include glossary_link.html title="Edward" %}
 hören? Vielleicht errief er heimlich die Hilfe von Citrolach an, auf dass er ihn
 durch diese Gänge zum Ziel führen möge. Scheint als würden meine Predigten
 langsam Anklang finden. In der unruhigen Nacht besinnte ich mich auf mein

@@ -7,7 +7,7 @@ background: "/img/posts/post05.jpg"
 background_pos: 100% 65%
 ---
 
-# Edward!
+# {% include glossary_link.html title="Edward" %}!
 
 Wir kamen zur Kreuzung der Lichter. Bisher zogen wir immer zügig daran vorbei,
 aber Darko konnte Edwards Ruf unter dem Baum vernehmen, der von diesen
@@ -35,7 +35,7 @@ Geschockt und in Rage zugleich, bissen wir auf unsere Lippen und brachten den
 Kampf zu Ende.
 
 Gebrochen standen wir fassungslos über dem, was einst {% include glossary_link.html title="Lemnor" %} war. Von allen im
-Lager hätte ich sie zusammen mit Koralle am liebsten in die Freiheit
+Lager hätte ich sie zusammen mit {% include glossary_link.html title="Koralle" %} am liebsten in die Freiheit
 zurückgeführt. Sie hatte es nicht verdient, ohne ihren treuen Gefährten an der
 Seite ihren letzten Lebenshauch auszuatmen. Ob die anderen im Lager es überhaupt
 Wert sind, gerettet zu werden? Wir werden wahrscheinlich niemand ablehnen, der
@@ -44,24 +44,24 @@ mir fern. Wir konnten nicht mal {% include glossary_link.html title="Lemnor" %} 
 Umgang mit den Gefahren in den Gräben. Die Expedition zum Tor zu schützen wird
 uns das Letzte abverlangen.
 
-Aber heute ist nicht der Tag, um sich darüber den Kopf zu zerbrechen. Koralle
+Aber heute ist nicht der Tag, um sich darüber den Kopf zu zerbrechen. {% include glossary_link.html title="Koralle" %}
 ruft noch um Hilfe...
 
-# Koralle und das Dreckstor
+# {% include glossary_link.html title="Koralle" %} und das Dreckstor
 
 Wir waren fokussiert und hatten ein Ziel vor Augen. Der Weg wurde durch Stille
-geprägt. Ein Abhang voller Barrikaden schien zu Koralle zu führen. Der Wolf
+geprägt. Ein Abhang voller Barrikaden schien zu {% include glossary_link.html title="Koralle" %} zu führen. Der Wolf
 befand sich in einer Aushöhlung am Rand inmitten des Abhangs. Grässliche Untote
 erhoben sich als wir uns näherten. Genau das richtige, um den Frust über den
 Verlust etwas abzubauen.
 
-Pedro konnte Koralle beruhigen und eine Verbindung zu ihm aufbauen. Wir schlugen
+Pedro konnte {% include glossary_link.html title="Koralle" %} beruhigen und eine Verbindung zu ihm aufbauen. Wir schlugen
 die Untoten zurück, aber als wir kurz davor waren zu verschwinden, bildeten sich
 seltsame Wellen im Boden des Torraums, die auf uns zukamen. Einer nach dem
 anderen erhoben sich mehrere Dreckhaufenwächter aus dem Kadaverboden. Ein oder
 zwei kann ich vielleicht aufhalten, um den anderen Zeit zu verschaffen, damit
 sie fliehen können. Doch dann stand Darko an meiner Seite - er hatte wohl die
-gleiche Idee. Edward hat eine gute Wahl getroffen in seinem Herrchen. Als die
+gleiche Idee. {% include glossary_link.html title="Edward" %} hat eine gute Wahl getroffen in seinem Herrchen. Als die
 Hoffnung unterzugehen schien, strahlte ein seltsames Licht von Pedro aus. Ich
 konnte meinen Augen nicht glauben: Das Licht trieb diese Abscheulichkeiten
 zurück!
@@ -79,7 +79,7 @@ Pedro kanalisierte Magie und mit einem Glühen in seinen Augen bat er mich, näh
 an die Dinger heranzutreten. Sehr vorsichtig pirschte ich langsam zu ihnen hin,
 bis Pedro mir das Zeichen gab, dass es Zeit zu verschwinden sei.
 
-Das ließ ich mir nicht zweimal sagen und wir eilten zum Lager zurück. Koralle
+Das ließ ich mir nicht zweimal sagen und wir eilten zum Lager zurück. {% include glossary_link.html title="Koralle" %}
 wurde wieder mit {% include glossary_link.html title="Lemnor" %} vereint. Aber der Preis dafür war sehr teuer.
 
 Wir teilten den anderen mit was vorgefallen war. Das Licht, das von {% include glossary_link.html title="Lemnor" %} nach
