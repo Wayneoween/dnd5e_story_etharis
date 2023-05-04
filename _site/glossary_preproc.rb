@@ -10,6 +10,7 @@
 require 'front_matter_parser'
 require 'yaml'
 require 'active_support/core_ext/string/inflections'
+require 'byebug'
 
 DEBUG = true
 

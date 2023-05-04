@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Ein neues Ziel?
+title: Ein neues Ziel
 author: Tala
-excerpt: Von brennenden Gräbern entsteht der Funke der Hoffnung
-background: "/img/posts/post05.jpg"
+excerpt: Brennende Gräber erschaffen Funken der Hoffnung
+background: "/img/posts/post06.png"
 background_pos: 100% 65%
 ---
 
@@ -13,7 +13,7 @@ Das Lager machte sich auf, {% include glossary_link.html title="Lemnor" %}’s �
 Seite schlagen kann. Nachdem das Feuer entfacht wurde, trat einer nach dem anderen heran und verabschiedete sich von
 {% include glossary_link.html title="Lemnor" %} mit ein paar Worten.
 
-Ich betete in Ignam dafür, dass Morrakesh {% include glossary_link.html title="Lemnor" %}'s Körper in ihren Flammen annehmen wird, auf dass sie vielleicht die
+Ich betete in Ignam dafür, dass {% include glossary_link.html title="Morrakesh" %} {% include glossary_link.html title="Lemnor" %}'s Körper in ihren Flammen annehmen wird, auf dass sie vielleicht die
 Möglichkeit erhält, sich einen Platz in ihrem Gefolge zu verdienen, um sich an denen zu rächen, durch die sie hier
 gelandet ist. Wir werden sie in unserem Herzen als Teil unseres Rudels mit in die Freiheit hinter das Dreckstor tragen.
 
@@ -30,12 +30,11 @@ Es gab ein kurzes hin und her, wer denn wie helfen kann, und {% include glossary
 Schwachstellen bei ihnen erkennen zu können. Es kam mir vielleicht nur so vor, aber ich glaube Pedro’s Auge hat bei der
 Aussage etwas nervös gezuckt. War vielleicht aber auch nur meine Einbildung.
 
-{% include glossary_link.html title="Abradus" %} erzählte uns, wo die wertvolleren Materialien im alten Lager zu finden sind. Es scheint, wir müssen da nochmal
-hin.
+{% include glossary_link.html title="Abradus" %} erzählte uns, wo die wertvolleren Materialien im alten Lager zu finden sind. Es scheint, wir müssen da nochmal hin.
 
 Auch die, die ursprünglich hier in den Gruben bleiben wollten, konnten davon überzeugt werden, dieses Kapitel hinter
 ihnen zu lassen. Es scheint fast so, als hätte unsere Anwesenheit den nötigen Schub in die richtige Richtung gebracht,
-damit sie ihren Mut wieder fassen konnten. ({% include glossary_link.html title="Bertalore" %} hat natürlich keine Wahl, die wird einfach mitgenommen)
+damit sie ihren Mut wieder fassen konnten. ({% include glossary_link.html title="Bertalore" %} hat natürlich keine Wahl, die wird einfach mitgenommen).
 
 # Der Schatten hinter dir
 
@@ -43,7 +42,7 @@ Als langsam wieder Ruhe einkehrte und die meisten sich zur Rast begaben, machte 
 Verbrennungsstätte. Noch ein letzter Blick zurück. Im Laufe der Jahrhunderte verliert man schon einige, aber so richtig
 dran gewöhnen wird man sich nie.
 
-Langsamen Schrittes machte ich mich zurück ins Lager. Endlich mal etwas Ruhe. …hat sich der Schatten gerade bewegt? Es
+Langsamen Schrittes machte ich mich zurück ins Lager. Endlich mal etwas Ruhe. ...hat sich der Schatten gerade bewegt? Es
 war ein langer Tag und ich war mir nicht sicher, ob mir meine Sinne einen Streich spielen. Meine Instinkte brachten mich
 dazu, einer Art Gefahr von hinten auszuweichen. Ich drehte mich um und sah einen manifestierten Schatten! Es gab keine
 Zeit zu grübeln und so ließ ich ein lautes Wolfsgeheul durch die Hallen ertönen, damit diese Bedrohung gemeinsam
@@ -71,4 +70,4 @@ Eddie hier ihren Frust über {% include glossary_link.html title="Lemnor" %}’s
 zwischen Mensch und Tier.
 
 Es scheint, als wäre die Klinge, die zwischen den Rippen des Ogers steckt, noch nicht mal angerostet, und der Umhang
-erzeugte dieses ominöse rote Licht….und irgendwo hier hinten müssten noch diese Gläschen mit dem pulvrigen Inhalt sein?
+erzeugte dieses ominöse rote Licht....und irgendwo hier hinten müssten noch diese Gläschen mit dem pulvrigen Inhalt sein?

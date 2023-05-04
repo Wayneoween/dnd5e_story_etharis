@@ -34,7 +34,7 @@ Tiefen. Vielleicht bringt das Geheimnisse dieser Zivilisation ans Tageslicht?
 Also auf gen Osten zu dieser **Penumbra Halle**, in der das Ding wohl liegen soll.
 
 Die Risse haben wir natürlich großzügig umgangen aber als wir näher zum Ziel
-kamen, wurden die Bäume ganz knochig und steinern… das vermochte schon mal
+kamen, wurden die Bäume ganz knochig und steinern... das vermochte schon mal
 nichts Gutes. Wandel und Anpassung sind schon essentiell aber es wirkte gar so,
 als wäre die Natur herum gar leblos. Der Boden war von schwarzem Glas überzogen.
 Das fühlte sich sehr sonderbar an. Dafür war es die Reise immerhin schon wert.
@@ -74,7 +74,7 @@ Gemeinsam konnten wir diese Ungeheuer unschädlich machen. Pedro war erstaunlich
 mutig. Die Skelette haben sich regelrecht die Zähne an seiner Rüstung
 ausgebissen, während er sie mit seinem Streitkolben zu Knochenstaub verarbeitet
 hat. Als so ein Skelett direkt vor mir stand und in meine Rippen schlug, hätte
-ich ja schon fast unwillentlich das Gebiet markiert… Komischerweise waren Pedros
+ich ja schon fast unwillentlich das Gebiet markiert... Komischerweise waren Pedros
 Verbrennung nach dem Kampf verschwunden. Sehr skurril.
 
 Die Gefahr gebannt, standen wir nun vor einem Schatz von ungefähr 529
